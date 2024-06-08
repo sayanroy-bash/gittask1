@@ -4,7 +4,7 @@ body {
   background-position: fixed;
   background-size: cover;
 }
-img:nth-of-type(1) {
+body>img:nth-of-type(1) {
   width: 719.53px;
   height: 184.4px;
   top: 215.6px;
